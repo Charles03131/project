@@ -1,0 +1,35 @@
+
+
+.done{
+    text-decoration:line-through;
+    font-size:20px;
+  }
+  
+  .formcontainer{
+    background-color:slategray;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:30px;
+  }
+  
+  .listcontainer{
+    background-color:lavender;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top:16px;
+    padding-bottom:200px;
+  }
+  
+  li{
+    text-align:center;
+    font-size:40px;
+  }
+  
+  label{
+    margin:10px;
+    text-align:center;
+  }
+    
+    
